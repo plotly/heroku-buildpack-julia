@@ -1,6 +1,12 @@
 heroku-buildpack-julia
 ======================
 
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-community.png" width="600px" alt="Maintained by the Plotly Community">
+  </a>
+</div>
+
 This is a [Heroku buildpack](https://devcenter.heroku.com/articles/buildpacks) for [Julia](http://julialang.org) apps.
 
 [JuliCon 2019 Presentation Video](https://www.youtube.com/watch?v=p--assaV64g)
